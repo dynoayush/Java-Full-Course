@@ -111,13 +111,5 @@
         System.out.println(cr.getRadius());
         System.out.println(cr.calcarea());
         System.out.println(cr.calcperimeter());
-
-
-
-
-
-
-
-
-      }
-    }
+        }
+       }
